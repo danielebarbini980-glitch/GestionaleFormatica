@@ -74,6 +74,7 @@ namespace GestionaleFormatica
         {
             SvuotaTabella();
             RefreshTabella();
+            MessageBox.Show("Hai tolto tutto");
         }
 
         private void SvuotaTabella()
