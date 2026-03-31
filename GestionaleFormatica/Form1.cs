@@ -13,7 +13,9 @@ namespace GestionaleFormatica
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            CreaTabellaUsers();
             RefreshTabella();
+
         }
 
         private void RefreshTabella()

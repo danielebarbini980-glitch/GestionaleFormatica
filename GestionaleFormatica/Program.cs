@@ -12,7 +12,7 @@ namespace GestionaleFormatica
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
             Application.Run(new Form1());
-
+            // Copyright Formatica2026
         }
     }
 }
